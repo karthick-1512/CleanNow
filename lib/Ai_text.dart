@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_gemini/google_gemini.dart';
-
-const apiKey = "AIzaSyCBKhWZZOuaknsjj7u6yo-APSRj9zrVp_Y";
+import 'package:m_app_event/api_key.dart';
 
 class TextOnly extends StatefulWidget {
   const TextOnly({
